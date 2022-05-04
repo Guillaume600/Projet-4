@@ -1064,3 +1064,14 @@ h4 {
         text-align: center;
     }
 }
+
+
+/* ajout du style présent dans le HTML */
+
+.center-block {
+    width: 100px;
+}
+
+.navbar-brand img {
+    height: 40px;
+}
