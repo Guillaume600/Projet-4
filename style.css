@@ -100,7 +100,7 @@ a:hover {
 }
 
 .d-bloc {
-    color: rgba(255, 255, 255, .7);
+    color: #003B4A;
 }
 
 .d-bloc button:hover {
@@ -760,7 +760,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: #003B4A!important;
     font-size: 18px;
 }
 
