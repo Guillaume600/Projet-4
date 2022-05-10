@@ -851,11 +851,11 @@ h4 {
 }
 
 .bg-banniere {
-    background-image: url("img/img comp/agence-la-panthere.png");
+    background-image: url("img/img comp/agence-la-panthere.avif");
 }
 
 .bg-presentation {
-    background-image: url("img/img comp/image-de-presentation.png");
+    background-image: url("img/img comp/image-de-presentation.avif");
 }
 
 @media (max-width: 1024px) {
